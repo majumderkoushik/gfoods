@@ -1,0 +1,48 @@
+#root {
+  /* max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem; */
+  text-align: center;
+}
+.bge{
+  background-image: url('https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 90vh;
+}
+.box {
+  width: 35vw;
+  height: 30vh;
+  }
+.card {
+  width: 100%;
+  height: 100%;
+  
+}
+.cardd {
+  width: 100%;
+  height: 90vh;
+  
+}
+.carddd {
+  width: 30vw;
+  height: auto;
+}
+.testi {
+  width: 25vw;
+}
+
+
+
+
+
+
+
+
+
+
+
+.read-the-docs {
+  color: #888;
+}
